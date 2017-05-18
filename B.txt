@@ -1,4 +1,9 @@
-BBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 A snake is in my boots.
+<<<<<<< HEAD
 
 surprise mother fuckeryeeyeeyeeyeeyeeyeeyeeyeeyee
+=======
+who let the dog out?
+surprise mother fucker
+>>>>>>> parent of 01b4047... 123
