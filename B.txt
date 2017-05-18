@@ -10,10 +10,6 @@ A snake is in my big big boots.
 surprise mother fuckeryeeyeeyeeyeeyeeyeeyeeyeeyee
 
 who let the dog out?
-<<<<<<< HEAD
-surprise mother fuckerRRyeehhhhhhhhhhhhhhhhhhhhhhhhhhh
-=======
-surprise father fuckerRRyee
->>>>>>> origin/master
+surprise father fuckerRRyeehhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 
